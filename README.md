@@ -1,6 +1,8 @@
 # Lambda-SQL-Practice
 A SQLite database modeled on real world enterprise databases for Lambda School students to practice SQL queries .
 
+![Entity Relationship Diagram](https://github.com/mkirby1995/Lambda-SQL-Practice/blob/master/ERD.jpg)
+
 ## Sample Questions
 
 Which branch had the most orders?
